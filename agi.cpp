@@ -1,28 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @agi-35
- Sign out
- Watch 0
-  Star 0
-  Fork 0 Aleesha-Ali/bankingSystem
- Code  Issues 0  Pull requests 0  Projects 0  Wiki Insights 
-Branch: master Find file Copy pathbankingSystem/cloudbank.cpp
-083f57a  on Jun 22
-@Aleesha-Ali Aleesha-Ali Add files via upload
-1 contributor
-RawBlameHistory     
-222 lines (194 sloc)  5.78 KB
-
-    /* NAME:ALEESHA ALI
-       SEC:A_ROLL NO.-2010292(32)
-       SEM:4th*/
-
-
     #include<iostream>
     using namespace std;
 
@@ -238,7 +213,7 @@ RawBlameHistory
         }
     return 0;
     }
-© 2017 GitHub, Inc.
+Â© 2017 GitHub, Inc.
 Terms
 Privacy
 Security
